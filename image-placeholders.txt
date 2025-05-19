@@ -1,0 +1,14 @@
+Portfolio Website Image Placeholders
+
+You can use these free placeholder image services to add temporary images to your portfolio:
+
+1. For profile image (profile.jpg):
+   - https://placehold.co/400x400?text=Your+Name
+   - Or use a photo of yourself
+
+2. For project images (project1.jpg, project2.jpg, project3.jpg):
+   - https://placehold.co/800x500?text=Project+1
+   - https://placehold.co/800x500?text=Project+2
+   - https://placehold.co/800x500?text=Project+3
+
+When you have actual project screenshots or images, remember to replace these placeholders.
